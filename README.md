@@ -43,4 +43,4 @@ Y el otro con Astro-Solidjs
 - Se estima que al dia de hoy agosto de 2022 astro es superior que Nextjs para cargar sitios Estáticos.
 - Esta superioridad se debe a que Astro por defecto carga el HTML, CSS primero y aunque Nextjs hace esto el primero carga el JS y luego si carga HTML y CSS.
 - Adicionalmente este video reporta una velocidad de estatico de astro-react de 10 ms vs 42ms nextjs-react por este gran video que: [static-nextjs-astro](https://www.youtube.com/watch?v=PSzCtdM20Fc&list=WL&index=65&t=7s).
-- Por tal motivo se concluye que con astro-solidjs es mas rapido que astro-react hasta la fecha de el agosto de 2022.
+- Debido a esto se utilizo solidjs con astro para ver su performance se concluye que con astro-solidjs es mas rapido que astro-react hasta la fecha de 2022.
