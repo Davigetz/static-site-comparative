@@ -18,7 +18,7 @@ Y el otro con Astro-Solidjs
 
 ## Imagenes del Proyecto
 - Portada
-![portada static site](https://user-images.githubusercontent.com/19938780/186075726-f7c94032-638a-4ae0-b5a4-747c116f75d3.png)
+![portada static site](https://user-images.githubusercontent.com/19938780/186076689-5ef98bc5-0b17-4244-8d34-83b6325f5a85.png)
 
 - Performance con Nextjs
 <img width="560" alt="Next_Static_result" src="https://user-images.githubusercontent.com/19938780/186071151-beab112a-10f3-485e-8ec3-7dd4bc53a4b3.png">
