@@ -1,7 +1,6 @@
 # Comparacion de sitios estaticos por NEXTJS, ASTROJS
 ## Introduccion
-Es un proyecto individual el cual se realizo para comparar las dos frameworks uno se realizo con Nextjs React.
-Y el otro con Astro-Solidjs
+Proyecto individual el cual se realizó para comparar Nextjs React Vs Astro-Solidjs
 
 ## Objetivos del Proyecto
 - Mirar el Performance entre una tecnología y otra 
