@@ -30,7 +30,7 @@ Proyecto individual el cual se realizó para comparar Nextjs React Vs Astro-Soli
 > - Carga para primera interacción 8.64s
 
 - Performance con Astrojs
-<img width="1039" alt="slowCellPhoneNextjsPerformance" src="https://user-images.githubusercontent.com/19938780/191043378-4041a281-253f-42c4-9a1a-20a6ce4b7099.png">
+<img width="1040" alt="solidjs-astro" src="https://user-images.githubusercontent.com/19938780/191043487-c4556385-5baf-4dde-a4ba-32203e1a29b2.png">
 
 >  - Carga 105 ms 
 
