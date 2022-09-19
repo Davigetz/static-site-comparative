@@ -1,4 +1,4 @@
-# Comparacion de sitios estaticos por NEXTJS, ASTROJS
+# Comparacion de NEXTJS, ASTROJS
 ## Introduccion
 Proyecto individual el cual se realizó para comparar Nextjs React Vs Astro-Solidjs
 
